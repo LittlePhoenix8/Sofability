@@ -1,0 +1,117 @@
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\Bin\Debug\Sofability.dll
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\Bin\Debug\Sofability.pdb
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\Bin\Debug\AppManifest.xaml
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\Bin\Debug\Sofability_Debug_AnyCPU.xap
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\obj\Debug\App.g.cs
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\obj\Debug\MainPage.g.cs
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\obj\Debug\Sofability.g.resources
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\obj\Debug\Sofability.Resources.AppResources.resources
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\obj\Debug\Sofability.csproj.GenerateResource.Cache
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\obj\Debug\Sofability.dll
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\obj\Debug\Sofability.pdb
+C:\Users\Carlos\Windows Phone\chilehack\Sofability\Sofability\obj\Debug\XapCacheFile.xml
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\Sofability.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\Sofability.pdb
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\AppManifest.xaml
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\Sofability_Debug_AnyCPU.xap
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\microsoft.phone.controls.toolkit.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\cs-CZ\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\da-DK\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\de-DE\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\el-GR\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\en-GB\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\es-ES\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\fi-FI\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\fr-FR\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\hu-HU\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\id-ID\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\it-IT\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\ja-JP\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\ko-KR\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\ms-MY\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\nb-NO\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\nl-NL\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\pl-PL\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\pt-BR\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\ru-RU\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\sv-SE\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\zh-CN\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\zh-TW\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Debug\App.g.cs
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Debug\Login.g.cs
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Debug\MainPage.g.cs
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Debug\Settings.g.cs
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Debug\ShareArticle.g.cs
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Debug\ViewArticle.g.cs
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Debug\Sofability.g.resources
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Debug\Sofability.Resources.AppResources.resources
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Debug\Sofability.csproj.GenerateResource.Cache
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Debug\Sofability.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Debug\Sofability.pdb
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Debug\XapCacheFile.xml
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Debug\Sofability.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Debug\AddBookmark.g.cs
+E:\Dropbox\Sofability\Sofability\Bin\Debug\Assets\ApplicationIcon.png
+E:\Dropbox\Sofability\Sofability\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\Dropbox\Sofability\Sofability\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\Dropbox\Sofability\Sofability\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\Dropbox\Sofability\Sofability\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\Dropbox\Sofability\Sofability\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\Dropbox\Sofability\Sofability\Bin\Debug\Sofability.dll
+E:\Dropbox\Sofability\Sofability\Bin\Debug\Sofability.pdb
+E:\Dropbox\Sofability\Sofability\Bin\Debug\AppManifest.xaml
+E:\Dropbox\Sofability\Sofability\Bin\Debug\Sofability_Debug_AnyCPU.xap
+E:\Dropbox\Sofability\Sofability\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Dropbox\Sofability\Sofability\obj\Debug\Sofability.csprojResolveAssemblyReference.cache
+E:\Dropbox\Sofability\Sofability\obj\Debug\App.g.cs
+E:\Dropbox\Sofability\Sofability\obj\Debug\AddBookmark.g.cs
+E:\Dropbox\Sofability\Sofability\obj\Debug\Login.g.cs
+E:\Dropbox\Sofability\Sofability\obj\Debug\MainPage.g.cs
+E:\Dropbox\Sofability\Sofability\obj\Debug\Settings.g.cs
+E:\Dropbox\Sofability\Sofability\obj\Debug\ShareArticle.g.cs
+E:\Dropbox\Sofability\Sofability\obj\Debug\ViewArticle.g.cs
+E:\Dropbox\Sofability\Sofability\obj\Debug\Sofability.g.resources
+E:\Dropbox\Sofability\Sofability\obj\Debug\Sofability.Resources.AppResources.resources
+E:\Dropbox\Sofability\Sofability\obj\Debug\Sofability.csproj.GenerateResource.Cache
+E:\Dropbox\Sofability\Sofability\obj\Debug\Sofability.dll
+E:\Dropbox\Sofability\Sofability\obj\Debug\Sofability.pdb
+E:\Dropbox\Sofability\Sofability\obj\Debug\XapCacheFile.xml
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Debug\Sofability.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Debug\Sofability.pdb
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Debug\AppManifest.xaml
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Debug\Sofability_Debug_AnyCPU.xap
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Debug\App.g.cs
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Debug\AddBookmark.g.cs
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Debug\Login.g.cs
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Debug\MainPage.g.cs
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Debug\Settings.g.cs
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Debug\ShareArticle.g.cs
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Debug\ViewArticle.g.cs
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Debug\Sofability.g.resources
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Debug\Sofability.Resources.AppResources.resources
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Debug\Sofability.csproj.GenerateResource.Cache
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Debug\Sofability.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Debug\Sofability.pdb
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Debug\XapCacheFile.xml

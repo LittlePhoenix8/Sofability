@@ -1,0 +1,35 @@
+﻿<xapCache source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\Sofability_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="05-01-2014 3:53:28">
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Debug\Sofability.dll" archivePath="Sofability.dll" lastWriteTime="05-01-2014 3:53:26" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="04-01-2014 14:05:49" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="04-01-2014 14:05:49" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Images\appbar.book.hardcover.open.png" archivePath="Assets\Images\appbar.book.hardcover.open.png" lastWriteTime="04-01-2014 15:05:32" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Images\appbar.book.perspective.png" archivePath="Assets\Images\appbar.book.perspective.png" lastWriteTime="04-01-2014 14:51:30" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Images\appbar.cabinet.files.variant.png" archivePath="Assets\Images\appbar.cabinet.files.variant.png" lastWriteTime="04-01-2014 15:07:25" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Images\appbar.refresh.png" archivePath="Assets\Images\appbar.refresh.png" lastWriteTime="04-01-2014 14:19:33" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Images\appbar.settings.png" archivePath="Assets\Images\appbar.settings.png" lastWriteTime="04-01-2014 21:07:21" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Images\appbar.shield.alert.png" archivePath="Assets\Images\appbar.shield.alert.png" lastWriteTime="04-01-2014 22:09:22" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Images\appbar.social.facebook.variant.png" archivePath="Assets\Images\appbar.social.facebook.variant.png" lastWriteTime="04-01-2014 14:48:10" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Images\appbar.social.sharethis.png" archivePath="Assets\Images\appbar.social.sharethis.png" lastWriteTime="04-01-2014 19:04:09" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Images\appbar.star.png" archivePath="Assets\Images\appbar.star.png" lastWriteTime="04-01-2014 15:06:41" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Images\appbar.text.script.png" archivePath="Assets\Images\appbar.text.script.png" lastWriteTime="04-01-2014 18:21:35" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Images\appbar.text.size.png" archivePath="Assets\Images\appbar.text.size.png" lastWriteTime="04-01-2014 14:36:32" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Images\appbar.twitter.bird.png" archivePath="Assets\Images\appbar.twitter.bird.png" lastWriteTime="04-01-2014 14:46:21" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Images\archived_icon.png" archivePath="Assets\Images\archived_icon.png" lastWriteTime="05-01-2014 1:50:17" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Images\favorited_icon.png" archivePath="Assets\Images\favorited_icon.png" lastWriteTime="05-01-2014 1:50:17" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Images\readinglist_icon.png" archivePath="Assets\Images\readinglist_icon.png" lastWriteTime="05-01-2014 1:50:17" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Images\sofability_logo.png" archivePath="Assets\Images\sofability_logo.png" lastWriteTime="04-01-2014 17:50:38" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="04-01-2014 14:05:49" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="04-01-2014 14:05:49" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="04-01-2014 14:05:49" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="04-01-2014 14:05:49" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="04-01-2014 14:05:49" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Assets\viewer.html" archivePath="Assets\viewer.html" lastWriteTime="05-01-2014 3:16:00" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\FlipCycleTileSmall.png" archivePath="FlipCycleTileSmall.png" lastWriteTime="04-01-2014 0:41:46" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="05-01-2014 3:52:19" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="03-03-2013 20:40:38" />
+  <file source="C:\Users\Carlos\iic2154-2013-2-grupo4\liveandeswp\packages\wptoolkit.4.2013.08.16\lib\sl4-windowsphone71\microsoft.phone.controls.toolkit.dll" archivePath="microsoft.phone.controls.toolkit.dll" lastWriteTime="02-10-2013 1:45:56" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\RestSharp.WindowsPhone.dll" archivePath="RestSharp.WindowsPhone.dll" lastWriteTime="04-01-2014 22:54:01" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="04-01-2014 0:42:06" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\FlipCycleTileMedium.png" archivePath="FlipCycleTileMedium.png" lastWriteTime="04-01-2014 0:41:00" />
+  <file source="C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="05-01-2014 3:52:19" />
+</xapCache>

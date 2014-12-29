@@ -1,0 +1,64 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Sofability.Search"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,20" Orientation="Horizontal">
+            <Image Height="35" Width="73" Source="/Assets/Images/sofability_logo.png" />
+            <TextBlock Text="market" Margin="9,-7,0,0" FontFamily="Georgia" Style="{StaticResource PhoneTextTitle1Style}" Foreground="Black" />
+        </StackPanel>
+        
+
+        <!--ContentPanel - place additional content here-->
+        <StackPanel x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <TextBox Text="¿Qué estás buscando?" Background="#BFDCDCDC" BorderBrush="#BF8F8888" GotFocus="TextBox_GotFocus" />
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Grid Margin="10" Grid.Row="0" Grid.Column="0">
+                    <Image Source="/Assets/Images/music_logo.png" />
+                    <TextBlock Text="Música" VerticalAlignment="Bottom" Foreground="White" FontWeight="Bold" FontSize="25" />
+                </Grid>
+                <Grid Margin="10" Grid.Row="0" Grid.Column="1">
+                    <Image Source="/Assets/Images/tech_logo.png" />
+                    <TextBlock Text="Tecnología" VerticalAlignment="Bottom" Foreground="White" FontWeight="Bold" FontSize="25" />
+                </Grid>
+                <Grid Margin="10" Grid.Row="1" Grid.Column="0">
+                    <Image Source="/Assets/Images/politic_logo.png" />
+                    <TextBlock Text="Política" VerticalAlignment="Bottom" Foreground="White" FontWeight="Bold" FontSize="25" />
+                </Grid>
+                <Grid Margin="10" Grid.Row="1" Grid.Column="1">
+                    <Image Source="/Assets/Images/forest_logo.png" />
+                    <TextBlock Text="Verde" VerticalAlignment="Bottom" Foreground="White" FontWeight="Bold" FontSize="25" />
+                </Grid>
+            </Grid>
+            <TextBlock Text="Sugerencia de hoy..." Style="{StaticResource PhoneTextTitle2Style}" Foreground="#FF747474" FontStyle="Italic" Margin="12,6" />
+            <TextBlock Text="''7 novedades que esperamos ver en CES...''" Style="{StaticResource PhoneTextTitle3Style}" Foreground="Black" />
+            <TextBlock Text="desde Fayerwayer.com" Style="{StaticResource PhoneTextSubtleStyle}" Foreground="#FF747474" HorizontalAlignment="Right" />
+        </StackPanel>
+    </Grid>
+
+</phone:PhoneApplicationPage>

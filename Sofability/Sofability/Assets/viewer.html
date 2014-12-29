@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=480, height=800, user-scalable=no" />
+    <meta name="MobileOptimized" content="width" />
+    <meta name="HandheldFriendly" content="true" />
+    <title>HTML5 Reader</title>
+    <style>
+    </style>
+</head>
+<body onload="onLoad()">
+</body>
+<script type="text/javascript">
+        function onLoad() {
+            window.external.notify("getContent");
+        }
+
+        function getContentCallback(content, style) {
+            document.getElementsByTagName("body")[0].innerHTML = content;
+            document.getElementsByTagName("style")[0].innerHTML = style;
+        }
+    </script>
+</html>

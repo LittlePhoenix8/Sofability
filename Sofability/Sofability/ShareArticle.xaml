@@ -1,0 +1,52 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Sofability.ShareArticle"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="compartir" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" FontFamily="Georgia" Foreground="Black"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <StackPanel x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <TextBlock Name="TitleText"
+                       Text="{Binding Title}"
+                       Style="{StaticResource PhoneTextTitle2Style}" Foreground="Black"/>
+            <TextBlock Name="DescriptionText"
+                       Text="{Binding Description}"
+                       Style="{StaticResource PhoneTextTitle3Style}" Foreground="Black"/>
+
+            <Button Click="Facebook_Click" BorderBrush="Black">
+                <StackPanel>
+                    <Image Source="/Assets/Images/appbar.social.sharethis.png" Width="100" />
+                    <TextBlock Text="Redes sociales" Foreground="Black"/>
+                </StackPanel>
+            </Button>
+            <Button Click="Kindle_Click" BorderBrush="Black">
+                <StackPanel>
+                    <Image Source="/Assets/Images/appbar.book.perspective.png" Width="100" />
+                    <TextBlock Text="Tu Kindle / email" Foreground="Black"/>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+    </Grid>
+
+</phone:PhoneApplicationPage>

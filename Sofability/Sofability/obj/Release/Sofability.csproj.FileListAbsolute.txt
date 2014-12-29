@@ -1,0 +1,238 @@
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Release\Sofability.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Release\App.g.cs
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Release\AddBookmark.g.cs
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Release\Login.g.cs
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Release\MainPage.g.cs
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Release\Search.g.cs
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Release\Settings.g.cs
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Release\ShareArticle.g.cs
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Release\ViewArticle.g.cs
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Release\Sofability.g.resources
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Release\Sofability.Resources.AppResources.resources
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Release\Sofability.csproj.GenerateResource.Cache
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\Sofability.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\Sofability.pdb
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\AppManifest.xaml
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\Sofability_Release_AnyCPU.xap
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\microsoft.phone.controls.toolkit.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\RestSharp.WindowsPhone.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\RestSharp.WindowsPhone.xml
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\cs-CZ\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\da-DK\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\de-DE\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\el-GR\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\en-GB\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\es-ES\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\fi-FI\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\fr-FR\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\hu-HU\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\id-ID\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\it-IT\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\ja-JP\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\ko-KR\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\ms-MY\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\nb-NO\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\nl-NL\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\pl-PL\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\pt-BR\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\ru-RU\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\sv-SE\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\zh-CN\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\Bin\Release\zh-TW\microsoft.phone.controls.toolkit.resources.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Release\Sofability.dll
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Release\Sofability.pdb
+C:\Users\Carlos\Dropbox\Sofability\Sofability\obj\Release\XapCacheFile.xml
+D:\Dropbox\Sofability\Sofability\Bin\Release\Assets\ApplicationIcon.png
+D:\Dropbox\Sofability\Sofability\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+D:\Dropbox\Sofability\Sofability\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+D:\Dropbox\Sofability\Sofability\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+D:\Dropbox\Sofability\Sofability\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+D:\Dropbox\Sofability\Sofability\Bin\Release\Assets\Tiles\IconicTileSmall.png
+D:\Dropbox\Sofability\Sofability\Bin\Release\Sofability.dll
+D:\Dropbox\Sofability\Sofability\Bin\Release\Sofability.pdb
+D:\Dropbox\Sofability\Sofability\Bin\Release\AppManifest.xaml
+D:\Dropbox\Sofability\Sofability\Bin\Release\Properties\WMAppManifest.xml
+D:\Dropbox\Sofability\Sofability\Bin\Release\Sofability_Release_AnyCPU.xap
+D:\Dropbox\Sofability\Sofability\Bin\Release\Microsoft.Phone.Controls.dll
+D:\Dropbox\Sofability\Sofability\Bin\Release\RestSharp.WindowsPhone.dll
+D:\Dropbox\Sofability\Sofability\Bin\Release\RestSharp.WindowsPhone.xml
+D:\Dropbox\Sofability\Sofability\obj\Release\App.g.cs
+D:\Dropbox\Sofability\Sofability\obj\Release\AddBookmark.g.cs
+D:\Dropbox\Sofability\Sofability\obj\Release\Login.g.cs
+D:\Dropbox\Sofability\Sofability\obj\Release\MainPage.g.cs
+D:\Dropbox\Sofability\Sofability\obj\Release\Search.g.cs
+D:\Dropbox\Sofability\Sofability\obj\Release\Settings.g.cs
+D:\Dropbox\Sofability\Sofability\obj\Release\ShareArticle.g.cs
+D:\Dropbox\Sofability\Sofability\obj\Release\ViewArticle.g.cs
+D:\Dropbox\Sofability\Sofability\obj\Release\Sofability.g.resources
+D:\Dropbox\Sofability\Sofability\obj\Release\Sofability.Resources.AppResources.resources
+D:\Dropbox\Sofability\Sofability\obj\Release\Sofability.csproj.GenerateResource.Cache
+D:\Dropbox\Sofability\Sofability\obj\Release\Sofability.dll
+D:\Dropbox\Sofability\Sofability\obj\Release\Sofability.pdb
+D:\Dropbox\Sofability\Sofability\obj\Release\XapCacheFile.xml
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\Sofability.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\Sofability.pdb
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\AppManifest.xaml
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\Sofability_Release_AnyCPU.xap
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\RestSharp.WindowsPhone.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\RestSharp.WindowsPhone.xml
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Release\Sofability.csprojResolveAssemblyReference.cache
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Release\App.g.cs
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Release\AddBookmark.g.cs
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Release\Login.g.cs
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Release\MainPage.g.cs
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Release\Search.g.cs
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Release\Settings.g.cs
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Release\ShareArticle.g.cs
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Release\ViewArticle.g.cs
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Release\Sofability.g.resources
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Release\Sofability.Resources.AppResources.resources
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Release\Sofability.csproj.GenerateResource.Cache
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Release\Sofability.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Release\Sofability.pdb
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\obj\Release\XapCacheFile.xml
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Viviana\Dropbox\Sofability (1)\Sofability\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\Assets\ApplicationIcon.png
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\Assets\Tiles\IconicTileSmall.png
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\Sofability.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\Sofability.pdb
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\AppManifest.xaml
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\Properties\WMAppManifest.xml
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\Sofability_Release_AnyCPU.xap
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\Microsoft.Phone.Controls.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\RestSharp.WindowsPhone.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\RestSharp.WindowsPhone.xml
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\obj\Release\App.g.cs
+D:\Mis cosas\Dropbox\Sofability\Sofability\obj\Release\AddBookmark.g.cs
+D:\Mis cosas\Dropbox\Sofability\Sofability\obj\Release\Login.g.cs
+D:\Mis cosas\Dropbox\Sofability\Sofability\obj\Release\MainPage.g.cs
+D:\Mis cosas\Dropbox\Sofability\Sofability\obj\Release\Search.g.cs
+D:\Mis cosas\Dropbox\Sofability\Sofability\obj\Release\Settings.g.cs
+D:\Mis cosas\Dropbox\Sofability\Sofability\obj\Release\ShareArticle.g.cs
+D:\Mis cosas\Dropbox\Sofability\Sofability\obj\Release\ViewArticle.g.cs
+D:\Mis cosas\Dropbox\Sofability\Sofability\obj\Release\Sofability.g.resources
+D:\Mis cosas\Dropbox\Sofability\Sofability\obj\Release\Sofability.Resources.AppResources.resources
+D:\Mis cosas\Dropbox\Sofability\Sofability\obj\Release\Sofability.csproj.GenerateResource.Cache
+D:\Mis cosas\Dropbox\Sofability\Sofability\obj\Release\Sofability.dll
+D:\Mis cosas\Dropbox\Sofability\Sofability\obj\Release\Sofability.pdb
+D:\Mis cosas\Dropbox\Sofability\Sofability\obj\Release\XapCacheFile.xml
